@@ -1,6 +1,6 @@
 # AI Privacy Protector  ㅣ   초상권 프로텍터
 
-삼정KPMG Future Academy 2기 프로젝트
+삼정KPMG Future Academy 2기 mini 프로젝트
 
 ## 개요
 초상권 프로텍터는 영상 콘텐츠 제작 과정에서 의도치 않게 촬영된 제3자의 얼굴을 자동으로 블러 처리하는 기술입니다.  
