@@ -1,1 +1,1 @@
-# Portrait_Rights_Protector
+# AI Privacy Protector
